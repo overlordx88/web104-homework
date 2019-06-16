@@ -79,15 +79,15 @@ c. Components
 
 ## 10. Match the right Bootstrap breakpoint to the correct media query starting point
 
->=576px
+\>=576px
 
 <576px
 
->= 768px
+\>= 768px
 
->= 1200px
+\>= 1200px
 
->= 992px
+\>= 992px
 
 ## 11. What are the two main ways you can add Bootstrap to your website? Only select two options
 
